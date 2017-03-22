@@ -9,7 +9,8 @@ Android Application that fetches data from [TED Radio Hour](<http://www.npr.org/
 
 ### How it looks?
 
-![](https://github.com/pancr9/TED-Podcasts/blob/master/podcast.PNG =100x100)
+<img src="https://github.com/pancr9/TED-Podcasts/blob/master/podcast.PNG" alt="Drawing" style="width: 200px;"/>
+
 
 
 
