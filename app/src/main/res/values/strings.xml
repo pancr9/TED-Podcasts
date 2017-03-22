@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Podcast App</string>
+    <string name="Exitbutton">Exit</string>
+    <string name="playnow">Play Now</string>
+</resources>
